@@ -1,0 +1,28 @@
+$color-white: #ffffff;
+
+.spacer {
+  flex-grow: 1;
+}
+
+a {
+  text-decoration: none;
+  color: $color-white;
+}
+
+mat-toolbar-row {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-title {
+  button {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  mat-toolbar-row {
+      position: relative;
+      width: 100%;
+  }
+}

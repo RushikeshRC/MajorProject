@@ -1,0 +1,6 @@
+projectKey=26218_rushikesh_MajorProjectAngG9
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=26218_rushikesh_MajorProjectAngG9
+ceTaskId=AYDQVyfj0_C1AJujt_ar
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AYDQVyfj0_C1AJujt_ar
